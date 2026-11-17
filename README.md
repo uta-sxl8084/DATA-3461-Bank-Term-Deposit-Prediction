@@ -1,6 +1,7 @@
 # Bank Term Deposit Subscription Prediction
 
 **DATA 3461 — Machine Learning Project**
+**Members: Ahnaf Mahiat Samiha Harappa, Sunaihra Zeb Lamia**
 
 ## Project Overview
 
